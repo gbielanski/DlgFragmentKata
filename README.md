@@ -9,4 +9,5 @@
 8. Add fragment dialog layout (text view and two button)
 9. Inflate UI from layout onCreateView
 10. Set listener on fragment button (cancel dismiss, ok: toast and dismiss)
+11. Add dialog title
 
